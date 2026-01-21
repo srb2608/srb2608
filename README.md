@@ -1,1 +1,8 @@
-Hi I am Soumitra Rajeev Bhagdikar a Data Analytics Engineering grad student from Northeastern University I have worked as an Data Analyst at Parker Hannifin for 6 months and as a Data Analyst  in Tata Consultancy Services for 4 months I primarily worked on several data visualization tools throughout professional experiences including Power BI, Tableau , RapidMiner, Qlik, Excel , Power Apps and Power Automate I have deep interest in Machine Learning , Data Visuaization, Deep Learning and have worked on several projects in my undergrad, I even have a design patent for my final year project "Automated Lip Reading Sentence Prediction" I am currently looking for Internships , feel free to contact me at soumitrabhagdikar@gmail.com or +1-6178181549
+Hi, I’m Soumitra Bhagdikar, a Data Analytics Engineering graduate student at Northeastern University with 2.5 years of professional experience in the field of Data Analytics. I have worked extensively with data visualization tools, SQL and NoSQL databases, data pipelines, and machine learning models across my professional roles.
+
+I have a strong interest in Machine Learning, Data Visualization, and Deep Learning, and have completed several impactful projects during my academic journey. Notably, my final-year project, “Automated Lip Reading Sentence Prediction,” received a design patent approved by the Government of India.
+
+Additionally, I have served as a Graduate Teaching Assistant for the Data Mining course during my graduate studies, where I supported students and assisted with coursework and evaluations.
+
+I am currently seeking full-time opportunities in data analytics, data science, or related roles. Please feel free to connect with me at soumitrabhagdikar@gmail.com
+ or +1 (617) 818-1549.
