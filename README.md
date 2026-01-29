@@ -1,4 +1,4 @@
-Hi, I’m Soumitra Bhagdikar, a Data Analytics Engineering graduate student at Northeastern University with 2.5 years of professional experience in the field of Data Analytics. I have worked extensively with data visualization tools, SQL and NoSQL databases, data pipelines, and machine learning models across my professional roles.
+Hi, I’m Soumitra Bhagdikar, a Data Analytics Engineering graduate student at Northeastern University with 3 years of professional experience in the field of Data Analytics. I have worked extensively with data visualization tools, SQL and NoSQL databases, data pipelines, and machine learning models across my professional roles.
 
 I have a strong interest in Machine Learning, Data Visualization, and Deep Learning, and have completed several impactful projects during my academic journey. Notably, my final-year project, “Automated Lip Reading Sentence Prediction,” received a design patent approved by the Government of India.
 
